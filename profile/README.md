@@ -1,12 +1,5 @@
-## Hi there 👋
+## Hi, this is Edamame! 👋
 
-<!--
+Edamame is an open-source, distributed load testing framework, optimized for real-time collaboration apps that use both HTTP and WebSockets. It comes with a CLI and React GUI that enables developers to easily self-host cloud-based architecture on AWS. Edamame supports tests of up to 200k virtual users, visualizes data in near real-time, and includes a stop functionality allowing developers to end their tests early.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you'd like to learn more, check out our [case study](https://get-edamame.com/case-study).
